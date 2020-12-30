@@ -170,7 +170,7 @@ public class Building
 			if (e.TypeE == 0)
 				this.setBuilding("Жилое здание", 1.0, 1.0, 1.0, 1, 0, 0);
 		}
-	}
+	} 
 	/* Функция по сложению двух экземпляров класса Building, где build - экземпляр, который будет прибавляться. */
 	public void addToBuilding(Building build)
 	{
